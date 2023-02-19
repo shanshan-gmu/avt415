@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Styles for browser window is widder than 800px */
+* {
+  box-sizing: border-box;
+}
+
+
+/* Start: tell browser to do the followings when browser window is 800px or smaller */
+  @media only screen and (max-width: 800px) {
+
+
+
+
+} /* don't forget to close the styles for 800px and smaller */
