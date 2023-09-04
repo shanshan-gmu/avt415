@@ -1,0 +1,18 @@
+.header{text-align: left;
+    margin: 20px; 
+    font-size: 60px; 
+    font-family: Georgia, 'Times New Roman', Times, serif}
+
+.author{text-align: left; margin: 20px; font-size: 18px; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.paragraph{text-align:left; margin: 20px; font-size: 24px; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.contents{text-align: left; margin: 20px; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.table{font-size: 22px; text-align: left; font-family: Georgia, 'Times New Roman', Times, serif;  width: 1200px;
+    border: 10px solid lightblue; 
+    background-color: lightblue;
+    padding: 10px;
+    margin: 50px;}
+
+.number{font-size: 32px; margin: 20px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold;}
